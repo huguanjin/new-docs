@@ -1,0 +1,98 @@
+{
+  "navbar.docs": {
+    "message": "文档"
+  },
+  "navbar.api": {
+    "message": "API"
+  },
+  "navbar.blog": {
+    "message": "博客"
+  },
+  "navbar.admin": {
+    "message": "管理"
+  },
+  "footer.docs": {
+    "message": "文档"
+  },
+  "footer.gettingStarted": {
+    "message": "快速开始"
+  },
+  "footer.features": {
+    "message": "功能特性"
+  },
+  "footer.api": {
+    "message": "API 参考"
+  },
+  "footer.community": {
+    "message": "社区"
+  },
+  "footer.more": {
+    "message": "更多"
+  },
+  "footer.blog": {
+    "message": "博客"
+  },
+  "homepage.getStarted": {
+    "message": "快速开始"
+  },
+  "homepage.apiReference": {
+    "message": "API 参考"
+  },
+  "features.gateway.title": {
+    "message": "统一 LLM 网关"
+  },
+  "features.gateway.desc": {
+    "message": "聚合 40+ AI 提供商于单一 OpenAI 兼容 API，支持智能路由与自动重试。"
+  },
+  "features.billing.title": {
+    "message": "计费与配额"
+  },
+  "features.billing.desc": {
+    "message": "追踪用量、管理配额、集成支付，为组织配置灵活的计费策略。"
+  },
+  "features.i18n.title": {
+    "message": "多语言"
+  },
+  "features.i18n.desc": {
+    "message": "文档和控制台支持英语、中文、法语、日语、俄语和越南语。"
+  },
+  "features.security.title": {
+    "message": "企业级安全"
+  },
+  "features.security.desc": {
+    "message": "OAuth、OIDC、WebAuthn、令牌分组、速率限制和全面的访问控制。"
+  },
+  "features.dashboard.title": {
+    "message": "数据分析面板"
+  },
+  "features.dashboard.desc": {
+    "message": "可视化控制台，包含用量统计、渠道监控和详细请求日志。"
+  },
+  "features.convert.title": {
+    "message": "格式转换"
+  },
+  "features.convert.desc": {
+    "message": "在 OpenAI、Claude Messages 和 Google Gemini 格式之间无缝转换。"
+  },
+  "api.title": {
+    "message": "API 参考"
+  },
+  "api.description": {
+    "message": "由 Apifox 驱动的交互式 API 文档。可下载 OpenAPI 规范离线使用。"
+  },
+  "api.openNewTab": {
+    "message": "在新标签页打开"
+  },
+  "admin.loginTitle": {
+    "message": "管理员登录"
+  },
+  "admin.loginDesc": {
+    "message": "登录后可编辑文档内容。公开页面无需登录即可访问。"
+  },
+  "admin.panelTitle": {
+    "message": "文档管理"
+  },
+  "admin.panelDesc": {
+    "message": "编辑 Markdown 文档文件。更改立即保存。重新构建站点以发布更新。"
+  }
+}

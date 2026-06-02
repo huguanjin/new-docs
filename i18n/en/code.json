@@ -1,0 +1,130 @@
+{
+  "navbar.docs": {
+    "message": "Docs",
+    "description": "Navbar docs link"
+  },
+  "navbar.api": {
+    "message": "API",
+    "description": "Navbar API link"
+  },
+  "navbar.blog": {
+    "message": "Blog",
+    "description": "Navbar blog link"
+  },
+  "navbar.admin": {
+    "message": "Admin",
+    "description": "Navbar admin link"
+  },
+  "footer.docs": {
+    "message": "Documentation",
+    "description": "Footer docs section"
+  },
+  "footer.gettingStarted": {
+    "message": "Getting Started",
+    "description": "Footer getting started link"
+  },
+  "footer.features": {
+    "message": "Features",
+    "description": "Footer features link"
+  },
+  "footer.api": {
+    "message": "API Reference",
+    "description": "Footer API link"
+  },
+  "footer.community": {
+    "message": "Community",
+    "description": "Footer community section"
+  },
+  "footer.more": {
+    "message": "More",
+    "description": "Footer more section"
+  },
+  "footer.blog": {
+    "message": "Blog",
+    "description": "Footer blog link"
+  },
+  "homepage.getStarted": {
+    "message": "Get Started",
+    "description": "Homepage get started button"
+  },
+  "homepage.apiReference": {
+    "message": "API Reference",
+    "description": "Homepage API reference button"
+  },
+  "features.gateway.title": {
+    "message": "Unified LLM Gateway",
+    "description": "Feature gateway title"
+  },
+  "features.gateway.desc": {
+    "message": "Aggregate 40+ AI providers behind a single OpenAI-compatible API with smart routing and automatic retry.",
+    "description": "Feature gateway description"
+  },
+  "features.billing.title": {
+    "message": "Billing & Quota",
+    "description": "Feature billing title"
+  },
+  "features.billing.desc": {
+    "message": "Track usage, manage quotas, integrate payments, and configure flexible billing policies for your organization.",
+    "description": "Feature billing description"
+  },
+  "features.i18n.title": {
+    "message": "Multi-language",
+    "description": "Feature i18n title"
+  },
+  "features.i18n.desc": {
+    "message": "Documentation and dashboard available in English, Chinese, French, Japanese, Russian, and Vietnamese.",
+    "description": "Feature i18n description"
+  },
+  "features.security.title": {
+    "message": "Enterprise Security",
+    "description": "Feature security title"
+  },
+  "features.security.desc": {
+    "message": "OAuth, OIDC, WebAuthn, token grouping, rate limiting, and comprehensive access control.",
+    "description": "Feature security description"
+  },
+  "features.dashboard.title": {
+    "message": "Analytics Dashboard",
+    "description": "Feature dashboard title"
+  },
+  "features.dashboard.desc": {
+    "message": "Visual console with usage statistics, channel monitoring, and detailed request logs.",
+    "description": "Feature dashboard description"
+  },
+  "features.convert.title": {
+    "message": "Format Conversion",
+    "description": "Feature convert title"
+  },
+  "features.convert.desc": {
+    "message": "Seamlessly convert between OpenAI, Claude Messages, and Google Gemini formats.",
+    "description": "Feature convert description"
+  },
+  "api.title": {
+    "message": "API Reference",
+    "description": "API page title"
+  },
+  "api.description": {
+    "message": "Interactive API documentation powered by Apifox. Download OpenAPI specs for offline use.",
+    "description": "API page description"
+  },
+  "api.openNewTab": {
+    "message": "Open in New Tab",
+    "description": "Open Apifox in new tab"
+  },
+  "admin.loginTitle": {
+    "message": "Admin Login",
+    "description": "Admin login title"
+  },
+  "admin.loginDesc": {
+    "message": "Sign in to edit documentation content. Public pages remain accessible without login.",
+    "description": "Admin login description"
+  },
+  "admin.panelTitle": {
+    "message": "Documentation Admin",
+    "description": "Admin panel title"
+  },
+  "admin.panelDesc": {
+    "message": "Edit markdown documentation files. Changes are saved immediately. Rebuild the site to publish updates.",
+    "description": "Admin panel description"
+  }
+}
