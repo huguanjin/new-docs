@@ -20,7 +20,12 @@ const config: Config = {
   projectName: 'new-api',
 
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -75,7 +80,6 @@ const config: Config = {
           onUntruncatedBlogPosts: 'ignore',
         },
         sitemap: {
-          lastmod: 'date',
           changefreq: 'weekly',
           priority: 0.7,
           ignorePatterns: ['/admin/**'],
